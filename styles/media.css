@@ -1,0 +1,17 @@
+@media(max-width:425px){
+    img{
+        height: 50%;
+    }
+}
+
+@media(max-width:725px){
+    img{
+        height: 70%;
+    }
+}
+
+@media(min-width:925px){
+    img{
+        height: clamp(30rem, 60vw, 120rem);
+    }
+}
