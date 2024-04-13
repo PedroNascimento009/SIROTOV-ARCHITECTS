@@ -55,7 +55,7 @@ main{
 img{
     background-size: cover;
     width: 100%;
-    height: clamp(40vh, 43vw, 128vh);
+    height: clamp(42vh, 45vw, 129vh);
 }
 
 .project{
